@@ -1,4 +1,4 @@
-# Link https://playidtv2.github.io/tviptv/
+# Link https://playtvthai.github.io/videojs/
 
 # HTML5 & JAVASCRIPT based Video Player
 
