@@ -19,7 +19,7 @@
 		// Call the webservices to load the playlist
 
 		var loadPlayList = function (){
-			fetch('js/videos.json').then(function(response) {
+			fetch('https://dl.dropbox.com/scl/fi/zvl2uzv15v2zzsub4r0wh/video.json?rlkey=64vr8pgbq2gqfk6vo1p689hxc&st=f2eyx0jf&dl=0').then(function(response) {
 
 			  if(response.ok) {
 			    return response.json();
