@@ -1,71 +1,27 @@
-[{
-	"name": "InfoSport",
-	"videoUrl": "http://212.102.60.80/Infosport/index.m3u8"
-},
-{
-	"name": "FR  TF1",
-	"videoUrl": "http://212.102.60.80/TF1/index.m3u8"
-},
-{        
-	"name": "mcot",
-	"img": "https://cnt1-image.cdn.3bbtv.com:8443/bannerImage/7937/7937_602x224.png",
-	"videoUrl": "http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8"
-},
-{
-	"name": "TNN16",
-	"img": "https://cnt1-image.cdn.3bbtv.com:8443/bannerImage/8022/8022_602x224.png",
-	"useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0",
-	"videoUrl": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8"
-},
-{
-	"name": "momo",
-	"videoUrl": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8"
-},
-{
-	"name": "mcot",
-	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
-},
-{
-	"name": "one",
-	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
-},
-{
-	"name": "TNN16",
-	"videoUrl": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8"
-},
-{
-	"name": "momo",
-	"videoUrl": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8"
-},
-{
-	"name": "mcot",
-	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
-},
-{
-	"name": "one",
-	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
-},
-{
-	"name": "one",
-	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
-},
-{
-	"name": "TNN16",
-	"videoUrl": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8"
-},
-{
-	"name": "momo",
-	"videoUrl": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8"
-},
-{
-	"name": "mcot",
-	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8"
-},
-{
-	"name": "one",
-	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8"
-},
-{
-	"name": "Thairath",
-	"videoUrl": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0013/HLS/V0013.m3u8"
-}]
+
+[
+  {
+    "name": "ch5",
+    "videoUrl": "https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8",
+    "mime_type": "video/mp4",
+    "thumbnail": "https://www.fileinw.com/postor/20240418185850ch5hd.jpg"
+  },
+  {
+    "name": "PlayID",
+    "videoUrl": "http://playid.ddnsgeek.com:8080/live/playidtv1/12345/17788.m3u8",
+    "mime_type": "video/mp4",
+    "thumbnail": "https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0"
+  },
+  {
+    "name": "ch3",
+    "videoUrl": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/35/35.mpd",
+    "mime_type": "video/mpd",
+    "thumbnail": "https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0"
+  },
+  {
+    "name": "Truesport 1",
+    "videoUrl": "https://playtvthai.github.io/m3u8/sports/truesport1.m3u8",
+    "mime_type": "video/mp4",
+    "thumbnail": "https://static.uflixtv.com/images/tv/channels_icons/hd-tsport1.png"
+  }
+]
