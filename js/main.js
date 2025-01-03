@@ -19,7 +19,7 @@
 		// Call the webservices to load the playlist
 
 		var loadPlayList = function (){
-			fetch('/js/videos.json').then(function(response) {
+			fetch('/js/video.json').then(function(response) {
 
 			  if(response.ok) {
 			    return response.json();
