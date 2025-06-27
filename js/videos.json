@@ -1,13 +1,13 @@
 [
   {
     "name": "ch5",
-    "videoUrl": "https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8",
+    "videoUrl": "https://cdnsv1.bunnycdncloud.com/ball67/5hd/digitaltv/5hd/chunks.m3u8",
     "mime_type": "video/mp4",
     "thumbnail": "https://www.fileinw.com/postor/20240418185850ch5hd.jpg"
   },
   {
     "name": "PlayID",
-    "videoUrl": "http://playid.ddnsgeek.com:8080/live/playidtv1/12345/17788.m3u8",
+    "videoUrl": "https://cdnsv1.bunnycdncloud.com/ball67/5hd/digitaltv/3hd/chunks.m3u8",
     "mime_type": "video/mp4",
     "thumbnail": "https://dl.dropbox.com/scl/fi/e5xherd4srouybp676xwv/nung.png?rlkey=6lnckppxir36l9yi92ksrmshl&st=7zapwav1&dl=0"
   },
