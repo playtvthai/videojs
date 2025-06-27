@@ -1,38 +1,32 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<title> view video</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="css/style.css">
-	</head>
-	<body>
-	<div class="header">
-	  <h1>Video Player</h1>
-	</div>
-	<div class="row">
-		<div id="videoPlayerContainer" class="col-9 col-s-12">
-			<video controls width="80%" height="auto" poster="images/play-video.jpeg" id="videoPlayer" fileName="">
-				<source src='' id="videosrc" type="video/mp4">
-				<p>Your browser doesn't support HTML5 video..</p>
-			</video>
-			<div><h2 id="selectedFile"></h2></div>
-		</div>
-
-		<div class="col-3 col-s-12 menu">
-<div id="playlist" class="playlist-grid">
-  <!-- JavaScript จะเติมข้อมูลแต่ละช่องที่นี่ -->
-</div>				<div id="message">Please wait Playlist is loading..!</div>
-			</div>
-		</div>
-	</div>
-	<div class="footer">
-  		<p>video player using javascript & html5</p>
-	</div>
-	</body>
-<script type="text/javascript" src="js/main.js"></script>	
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>TV Playlist Grid</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="header">
+    <h1>TV Playlist Grid</h1>
+  </div>
+  <div class="row">
+    <div id="videoPlayerContainer" class="col-9 col-s-12">
+      <video controls width="80%" height="auto" poster="" id="videoPlayer">
+        <source src="" id="videosrc" type="application/x-mpegURL">
+        <p>Your browser doesn't support HTML5 video.</p>
+      </video>
+      <div><h2 id="selectedFile"></h2></div>
+    </div>
+    <div class="col-3 col-s-12 menu">
+      <div id="playlist">
+        <!-- JavaScript จะเติมข้อมูล playlist grid ที่นี่ -->
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <p>video player using javascript & html5</p>
+  </div>
+  <script src="js/main.js"></script>
+</body>
 </html>
-
-
-
-
-
