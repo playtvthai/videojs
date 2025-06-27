@@ -1,4 +1,5 @@
- {
+[
+  {
     "name": "ch5",
     "videoUrl": "https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8",
     "mime_type": "video/mp4",
@@ -21,4 +22,5 @@
     "videoUrl": "https://playtvthai.github.io/m3u8/sports/truesport1.m3u8",
     "mime_type": "video/mp4",
     "thumbnail": "https://static.uflixtv.com/images/tv/channels_icons/hd-tsport1.png"
-  }]
+  }
+]
